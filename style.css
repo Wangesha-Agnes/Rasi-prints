@@ -1,7 +1,75 @@
+#topnav{
+    gap: 15%;
+    color: green;
+}
+#container{
+    background-image: url(Images/image1.jpg);
+    background-position: initial;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30%;
+}
+#icons{
+    display: flex;
+    width: 10px;
+    gap: 10%;
+}
+button{
+  background-color: rgb(73, 102, 29);
+  color:white;
+  margin-left: 700px;
+  padding: 10px 50px;
+  border-radius: 5px;  
+}
+#artistry{
+    display: flex;
+    gap: 10%;
+
+}
+#array{
+    display: flex;
+    gap: 10%;
+}
+#client{
+    text-align: center;
+}
+#ontime{
+    display: flex;
+}
+#icon1{
+    display: flex;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #footer{
     display: flex;
     gap: 5%;
-}
-#topnav{
-    gap: 15%;
 }
